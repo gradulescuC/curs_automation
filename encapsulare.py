@@ -24,7 +24,7 @@ class Casa_encapsulare:
 		def calculeaza_aprobare_numar_etaje(self):
 				if self.numar_etaje > 5:
 						print(
-								"Cand unul iti spune ca esti beat mergi mai departe. Daca doi iti spun ca esti beat mergi sa te culci")
+								"Apartamentul are mai mult de 5 etaje, drept urmare se poate acorda aprobarea necesara")
 				else:
 						self.aprobare = True
 
