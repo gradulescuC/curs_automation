@@ -1,0 +1,368 @@
+1670350752171	geckodriver	INFO	Listening on 127.0.0.1:62240
+1670350752274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62241" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofilemlfdHs"
+2022-12-06 20:19:13.233 plugin-container[95425:11447287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:19:13.235 plugin-container[95425:11447287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 20:19:13.262 plugin-container[95425:11447287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:19:13.262 plugin-container[95425:11447287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 20:19:13.262 plugin-container[95425:11447294] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:19:13.263 plugin-container[95425:11447294] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670350753302	Marionette	INFO	Marionette enabled
+1670350753410	Marionette	INFO	Listening on port 62255
+Read port: 62255
+WebDriver BiDi listening on ws://127.0.0.1:62241
+1670350753593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofilemlfdHs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62241/devtools/browser/ed234fba-7504-421a-93ab-167cea1a3550
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670350759278	Marionette	INFO	Stopped listening on port 62255
+1670351494224	geckodriver	INFO	Listening on 127.0.0.1:65496
+1670351494586	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65497" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileGgWidv"
+2022-12-06 20:31:35.220 plugin-container[97332:11463971] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:31:35.221 plugin-container[97332:11463971] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 20:31:35.230 plugin-container[97332:11463971] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:31:35.230 plugin-container[97332:11463971] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-06 20:31:35.230 plugin-container[97332:11463976] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-06 20:31:35.230 plugin-container[97332:11463976] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670351495233	Marionette	INFO	Marionette enabled
+1670351495269	Marionette	INFO	Listening on port 65506
+Read port: 65506
+WebDriver BiDi listening on ws://127.0.0.1:65497
+1670351495634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileGgWidv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65497/devtools/browser/11dd2fa7-d943-4266-b393-96da8af4b71c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670351500566	Marionette	INFO	Stopped listening on port 65506
+1670437912331	geckodriver	INFO	Listening on 127.0.0.1:56576
+1670437912628	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56577" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileUE0WyQ"
+2022-12-07 20:31:56.212 plugin-container[59621:11971745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 20:31:56.213 plugin-container[59621:11971745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 20:31:56.233 plugin-container[59621:11971745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 20:31:56.233 plugin-container[59621:11971745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-07 20:31:56.234 plugin-container[59621:11971750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-07 20:31:56.234 plugin-container[59621:11971750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670437916297	Marionette	INFO	Marionette enabled
+1670437916763	Marionette	INFO	Listening on port 56584
+Read port: 56584
+WebDriver BiDi listening on ws://127.0.0.1:56577
+1670437917709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileUE0WyQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56577/devtools/browser/02ad679b-fb5a-447c-a480-41602fdef10f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670437927137	Marionette	INFO	Stopped listening on port 56584
+1670498700673	geckodriver	INFO	Listening on 127.0.0.1:60658
+1670498700981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60659" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofile6MTI1u"
+2022-12-08 13:25:01.729 plugin-container[7651:12345034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-08 13:25:01.729 plugin-container[7651:12345034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670498701779	Marionette	INFO	Marionette enabled
+2022-12-08 13:25:01.788 plugin-container[7651:12345034] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-08 13:25:01.788 plugin-container[7651:12345034] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-08 13:25:01.788 plugin-container[7651:12345040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-08 13:25:01.788 plugin-container[7651:12345040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670498701882	Marionette	INFO	Listening on port 60664
+Read port: 60664
+WebDriver BiDi listening on ws://127.0.0.1:60659
+1670498702027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofile6MTI1u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60659/devtools/browser/eef09d3c-8986-4a16-a8ba-15d49ca7deb3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670498707443	Marionette	INFO	Stopped listening on port 60664
+1670594066718	geckodriver	INFO	Listening on 127.0.0.1:50741
+1670594066992	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50742" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileWkNSbU"
+2022-12-09 15:54:27.835 plugin-container[89081:13004574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 15:54:27.835 plugin-container[89081:13004574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 15:54:27.850 plugin-container[89081:13004574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 15:54:27.850 plugin-container[89081:13004574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 15:54:27.851 plugin-container[89081:13004578] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 15:54:27.851 plugin-container[89081:13004578] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670594067889	Marionette	INFO	Marionette enabled
+1670594067999	Marionette	INFO	Listening on port 50747
+Read port: 50747
+WebDriver BiDi listening on ws://127.0.0.1:50742
+1670594068179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileWkNSbU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50742/devtools/browser/3c69b43b-b901-4788-bfee-d7863d93475d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670594074716	Marionette	INFO	Stopped listening on port 50747
+1670610564359	geckodriver	INFO	Listening on 127.0.0.1:62009
+1670610564758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62010" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileWEzqeo"
+2022-12-09 20:29:25.389 plugin-container[25280:13281524] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:29:25.389 plugin-container[25280:13281524] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 20:29:25.399 plugin-container[25280:13281524] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:29:25.399 plugin-container[25280:13281524] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 20:29:25.399 plugin-container[25280:13281533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:29:25.399 plugin-container[25280:13281533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670610565424	Marionette	INFO	Marionette enabled
+1670610565490	Marionette	INFO	Listening on port 62023
+Read port: 62023
+WebDriver BiDi listening on ws://127.0.0.1:62010
+1670610565763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileWEzqeo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62010/devtools/browser/386ea05c-c964-44b7-9317-5b2512058b8f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670610572029	Marionette	INFO	Stopped listening on port 62023
+1670610928315	geckodriver	INFO	Listening on 127.0.0.1:63773
+1670610928714	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63774" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofilenBm8R8"
+2022-12-09 20:35:29.298 plugin-container[26381:13292175] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:29.299 plugin-container[26381:13292175] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 20:35:29.304 plugin-container[26381:13292175] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:29.304 plugin-container[26381:13292175] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 20:35:29.304 plugin-container[26381:13292199] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:29.304 plugin-container[26381:13292199] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670610929312	Marionette	INFO	Marionette enabled
+1670610929348	Marionette	INFO	Listening on port 63783
+Read port: 63783
+WebDriver BiDi listening on ws://127.0.0.1:63774
+1670610929743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofilenBm8R8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63774/devtools/browser/2eca8781-2c47-4cab-9aba-914423fac3bc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670610934733	Marionette	INFO	Stopped listening on port 63783
+1670610945969	geckodriver	INFO	Listening on 127.0.0.1:63886
+1670610946371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63887" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileD7BIGB"
+2022-12-09 20:35:46.920 plugin-container[26453:13293040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:46.921 plugin-container[26453:13293040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670610946926	Marionette	INFO	Marionette enabled
+2022-12-09 20:35:46.927 plugin-container[26453:13293040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:46.927 plugin-container[26453:13293040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-09 20:35:46.927 plugin-container[26453:13293064] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-09 20:35:46.927 plugin-container[26453:13293064] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1670610946962	Marionette	INFO	Listening on port 63896
+Read port: 63896
+WebDriver BiDi listening on ws://127.0.0.1:63887
+1670610947310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileD7BIGB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63887/devtools/browser/cd1e1208-f2cc-45f1-aad2-be5ec513d90f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670610950296	Marionette	INFO	Stopped listening on port 63896
+1686125608188	geckodriver	INFO	Listening on 127.0.0.1:49276
+1686125608326	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofile287N27"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686125608850	Marionette	INFO	Marionette enabled
+2023-06-07 11:13:29.048 plugin-container[88675:6436464] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:13:29.048 plugin-container[88675:6436464] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686125609088	Marionette	INFO	Listening on port 49282
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 11:13:29.158 plugin-container[88675:6436464] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:13:29.158 plugin-container[88675:6436464] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 11:13:29.158 plugin-container[88675:6436502] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:13:29.158 plugin-container[88675:6436502] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 49282
+WebDriver BiDi listening on ws://127.0.0.1:49277
+1686125609401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofile287N27/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49277/devtools/browser/5e78cee0-6f61-4650-b327-91858d30f70f
+2023-06-07 08:13:30.916 plugin-container[88689:6436790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:13:30.916 plugin-container[88689:6436790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 08:13:30.920 plugin-container[88689:6436790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:13:30.920 plugin-container[88689:6436790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 08:13:30.920 plugin-container[88689:6436786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:13:30.920 plugin-container[88689:6436786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686125612988	Marionette	INFO	Stopped listening on port 49282
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1686125720390	geckodriver	INFO	Listening on 127.0.0.1:49423
+1686125720917	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileBGkOb2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686125721367	Marionette	INFO	Marionette enabled
+2023-06-07 11:15:21.540 plugin-container[89132:6440958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:15:21.541 plugin-container[89132:6440958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 11:15:21.545 plugin-container[89132:6440958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:15:21.545 plugin-container[89132:6440958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 11:15:21.545 plugin-container[89132:6440952] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 11:15:21.545 plugin-container[89132:6440952] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686125721605	Marionette	INFO	Listening on port 49429
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 49429
+WebDriver BiDi listening on ws://127.0.0.1:49424
+1686125721717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/dc/m29nnh9n3633l5mc2x3z0mkc0000gn/T/rust_mozprofileBGkOb2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49424/devtools/browser/33d6cd73-8884-41f0-8096-4b5afe7d81e0
+2023-06-07 08:15:23.062 plugin-container[89144:6441136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:15:23.062 plugin-container[89144:6441136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 08:15:23.065 plugin-container[89144:6441136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:15:23.065 plugin-container[89144:6441136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 08:15:23.065 plugin-container[89144:6441137] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 08:15:23.065 plugin-container[89144:6441137] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686125724671	Marionette	INFO	Stopped listening on port 49429
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:828:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
