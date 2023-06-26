@@ -58,7 +58,7 @@ class Casa_encapsulare:
 				self.__material_constructie = None
 
 
-garsoniera = Casa_encapsulare_decoratori(0, 1, 1, "beton", 40, "Strada Lalelelor 23")
+garsoniera = Casa_encapsulare(0, 1, 1, "beton", 40, "Strada Lalelelor 23")
 print(
 		f"materiale de constructie returnate prin getter inainte de update: {garsoniera.materiale_constructie}")  # apelare getter
 garsoniera.materiale_constructie = "caramida"  # setter
